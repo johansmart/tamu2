@@ -1,0 +1,41 @@
+.navbar-default .navbar-nav > li.clr1 a{
+		color:#ffffff;
+}
+.navbar-default .navbar-nav > li.clr2 a{
+	color: #FFEB3B;;
+}
+.navbar-default .navbar-nav > li.clr3 a{
+	color: #5EC64D;
+}
+.navbar-default .navbar-nav > li.clr4 a{
+	color: #29AAE2;
+}
+.navbar-default .navbar-nav > li.clr1 a:hover, .navbar-default .navbar-nav > li.clr1.active a{
+	color:#fff;
+	background: #F55;
+}
+.navbar-default .navbar-nav > li.clr2 a:hover, .navbar-default .navbar-nav > li.clr2.active a{
+	color: #fff;
+	background:#973CB6;
+}
+.navbar-default .navbar-nav > li.clr3 a:hover, .navbar-default .navbar-nav > li.clr3.active a{
+	color: #fff;
+	background:#5EC64D;
+}
+.navbar-default .navbar-nav > li.clr4 a:hover, .navbar-default .navbar-nav > li.clr4.active a{
+	color: #fff;
+	background: #29AAE2;
+}
+.navbar-default{
+	background-color: #3b5998;
+	font-size:18px;
+}
+.navbar-default .navbar-brand {
+	color: #ffffff;
+	font-weight:bold;
+}
+.navbar-default .navbar-text {
+	color:#ffffff;
+}
+a{color: #FFC107;text-decoration: none;}
+img{width:120px;	height:135px;padding-top: 10px;}
